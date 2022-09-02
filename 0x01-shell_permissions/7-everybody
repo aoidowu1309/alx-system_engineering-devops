@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown hello 7-everybody
+sudo chown 7-everybody hello
