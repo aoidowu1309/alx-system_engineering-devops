@@ -1,2 +1,2 @@
 #/!bin/bash
-chmod g+rw 2-groups
+sudo 2-groups
