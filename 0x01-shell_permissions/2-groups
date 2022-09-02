@@ -1,2 +1,2 @@
 #/!bin/bash
-ls -la /2-groups/
+ls -la 2-groups
