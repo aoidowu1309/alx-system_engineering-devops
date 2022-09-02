@@ -1,2 +1,2 @@
 #/!bin/bash
-chown 2-groups
+chmod g+rw 2-groups
