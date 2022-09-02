@@ -1,2 +1,2 @@
 #/!bin/bash
-sudo 2-groups
+su 2-groups
