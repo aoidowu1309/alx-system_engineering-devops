@@ -1,2 +1,2 @@
 #/!bin/bash
-addgroup 2-groups
+chown 2-groups
