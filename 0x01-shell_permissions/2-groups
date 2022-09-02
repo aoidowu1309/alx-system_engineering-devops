@@ -1,2 +1,2 @@
 #/!bin/bash
-addgroup groups
+sudo addgroup
