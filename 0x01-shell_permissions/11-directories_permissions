@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R g+rwx /public/teamdir
+chmod -R g+rwx
