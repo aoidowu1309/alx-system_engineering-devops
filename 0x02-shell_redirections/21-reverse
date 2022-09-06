@@ -1,2 +1,2 @@
 #!bin/bash
-21-reverse echo "reverse" | -rev
+echo "reverse" | rev
