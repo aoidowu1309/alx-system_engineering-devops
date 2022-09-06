@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | head -n
+cat > 12-newest_files
