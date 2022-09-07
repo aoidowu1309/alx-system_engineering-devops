@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -o '[^/]*$' <<< "/tmp/dir/action"
+grep -o '[^/]*$' <<< "/tmp/dir/action/"
